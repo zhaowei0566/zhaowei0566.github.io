@@ -31,8 +31,8 @@ College of Civil Engineering and Architecture, Liaoning Technical University,Fux
 
 # Contact
 <address>
-Room 215, Randolph Hall, 460 Old Turner St., Blacksburg, VA, 24061 />
-Kevin T. Crofton Department of Aerospace and Ocean Engineering />
+Room 215, Randolph Hall, 460 Old Turner St., Blacksburg, VA, 24061 \\
+Kevin T. Crofton Department of Aerospace and Ocean Engineering \\
 Virginia Polytechnic Institute and State University
 </address>
 
