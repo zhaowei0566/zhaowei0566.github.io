@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Wei Zhao (赵卫)
-Dr. Zhao is currently a PostDoc Fellow in [Department of Aerospace and Ocean Engineering](www.aoe.vt.edu) at [Virginia Polytechnic Institute and State University (Blacksburg Campus)](https://vt.edu/). \\
+Dr. Zhao is currently a PostDoc Fellow in [Department of Aerospace and Ocean Engineering](http://www.aoe.vt.edu) at [Virginia Polytechnic Institute and State University (Blacksburg Campus)](https://vt.edu/). \\
 My research areas mainly focus on:
 * Composite Structures;
 * Multidisciplinary Design, Analysis and Optimization;
